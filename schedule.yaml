@@ -1,998 +1,202 @@
 ---
-'code': 0
-
-'data': [{'day_number': 1
-
-'week_number': 11
-
-'date': '2024-10-28'
-
-'note': None
-
-'type': None
-
-'lessons': []
-
-'intersections': []
-}
-
-{'day_number': 2
-
-'week_number': 11
-
-'date': '2024-10-29'
-
-'note': None
-
-'type': None
-
-'lessons': [{'pair_id': 19337643261
-
-'subject': 'Математический анализ'
-
-'subject_id': 25594
-
-'note': None
-
-'type': 'Практические занятия'
-
-'time_start': '08:20'
-
-'time_end': '09:50'
-
-'teacher_id': 345345
-
-'teacher_name': 'Блейхер Оксана Владимировна'
-
-'room': None
-
-'building': None
-
-'format': 'Дистанционный '
-
-'work_type': 'Практические занятия'
-
-'work_type_id': 3
-
-'group': 'Мат Ан 8.1'
-
-'flow_type_id': 2
-
-'flow_id': 53196
-
-'zoom_url': 'https://itmo.zoom.us/j/81922986037?pwd=TcXggDXMN10F2z9tnEgvI8nIHPYpnT.1'
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': None
-
-'format_id': 3
-
-'main_bld_id': None
-}
-
-{'pair_id': 19226465979
-
-'subject': 'Линейная алгебра'
-
-'subject_id': 25574
-
-'note': None
-
-'type': 'Лекции'
-
-'time_start': '11:40'
-
-'time_end': '13:10'
-
-'teacher_id': 207357
-
-'teacher_name': 'Тушавин Глеб Владимирович'
-
-'room': 'ауд.2202 (2202)'
-
-'building': 'ул.Ломоносова
-
-д.9
-
-лит. А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Лекции'
-
-'work_type_id': 1
-
-'group': 'Лин Алг 9'
-
-'flow_type_id': 2
-
-'flow_id': 53048
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 23
-
-'format_id': 2
-
-'main_bld_id': 273
-}
-
-{'pair_id': 19226466104
-
-'subject': 'Линейная алгебра'
-
-'subject_id': 25574
-
-'note': None
-
-'type': 'Практические занятия'
-
-'time_start': '13:30'
-
-'time_end': '15:00'
-
-'teacher_id': 207357
-
-'teacher_name': 'Тушавин Глеб Владимирович'
-
-'room': '4210'
-
-'building': 'ул.Ломоносова
-
-д.9
-
-лит. Б'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Практические занятия'
-
-'work_type_id': 3
-
-'group': 'Лин Алг 9.2'
-
-'flow_type_id': 2
-
-'flow_id': 53050
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 33
-
-'format_id': 2
-
-'main_bld_id': 273
-}
-
-{'pair_id': 19921991497
-
-'subject': 'Английский язык B1.2'
-
-'subject_id': 63630
-
-'note': None
-
-'type': 'Практические занятия'
-
-'time_start': '15:20'
-
-'time_end': '16:50'
-
-'teacher_id': 269255
-
-'teacher_name': 'Морозова Анна Михайловна'
-
-'room': '3307'
-
-'building': 'ул.Ломоносова
-
-д.9
-
-лит. Е'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Практические занятия'
-
-'work_type_id': 3
-
-'group': 'АЯ-B1.2/20'
-
-'flow_type_id': 2
-
-'flow_id': 52651
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 35
-
-'format_id': 2
-
-'main_bld_id': 273
-}
-
-{'pair_id': 19921991616
-
-'subject': 'Английский язык B1.2'
-
-'subject_id': 63630
-
-'note': None
-
-'type': 'Практические занятия'
-
-'time_start': '17:00'
-
-'time_end': '18:30'
-
-'teacher_id': 269255
-
-'teacher_name': 'Морозова Анна Михайловна'
-
-'room': '3307'
-
-'building': 'ул.Ломоносова
-
-д.9
-
-лит. Е'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Практические занятия'
-
-'work_type_id': 3
-
-'group': 'АЯ-B1.2/20'
-
-'flow_type_id': 2
-
-'flow_id': 52651
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 35
-
-'format_id': 2
-
-'main_bld_id': 273
-}
-
-
-'intersections': []
-}
-
-{'day_number': 3
-
-'week_number': 11
-
-'date': '2024-10-30'
-
-'note': None
-
-'type': None
-
-'lessons': [{'pair_id': 21265539570
-
-'subject': 'Программирование'
-
-'subject_id': 26245
-
-'note': ' Актовый зал'
-
-'type': 'Лекции'
-
-'time_start': '08:20'
-
-'time_end': '09:50'
-
-'teacher_id': 105394
-
-'teacher_name': 'Гаврилов Антон Валерьевич'
-
-'room': 'Актовый зал (1216/0 (усл))'
-
-'building': 'ул.Ломоносова
-
-д.9
-
-лит. М'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Лекции'
-
-'work_type_id': 1
-
-'group': 'Прог 1 (Р3106
-
-Р3107
-
-Р3108
-
-Р3109
-
-Р3110
-
-Р3111
-
-Р3112
-
-Р3113
-
-Р3114
-
-Р3115
-
-Р3116
-
-Р3117
-
-Р3118
-
-Р3119
-
-Р3120
-
-Р3121
-
-Р3122
-
-Р3123
-
-Р3124
-
-Р3130
-
-Р3131
-
-Р3132'
-
-'flow_type_id': 2
-
-'flow_id': 55048
-
-'zoom_url': 'https://itmo.zoom.us/j/83339863126?pwd=OLqqjqYvHWioBSeg36UfeYvqnaljUM.1'
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 37
-
-'format_id': 2
-
-'main_bld_id': 273
-}
-
-{'pair_id': 21768268639
-
-'subject': 'Программирование'
-
-'subject_id': 26245
-
-'note': None
-
-'type': 'Лабораторные занятия'
-
-'time_start': '11:40'
-
-'time_end': '13:10'
-
-'teacher_id': 309681
-
-'teacher_name': 'Кустарев Иван Павлович'
-
-'room': '1333'
-
-'building': 'Кронверкский пр.
-
-д.49
-
-лит.А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Лабораторные занятия'
-
-'work_type_id': 2
-
-'group': 'Прог 1.20 (Р3130)'
-
-'flow_type_id': 2
-
-'flow_id': 55068
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 13
-
-'format_id': 2
-
-'main_bld_id': 13
-}
-
-{'pair_id': 21768268772
-
-'subject': 'Программирование'
-
-'subject_id': 26245
-
-'note': None
-
-'type': 'Лабораторные занятия'
-
-'time_start': '13:30'
-
-'time_end': '15:00'
-
-'teacher_id': 309681
-
-'teacher_name': 'Кустарев Иван Павлович'
-
-'room': '1333'
-
-'building': 'Кронверкский пр.
-
-д.49
-
-лит.А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Лабораторные занятия'
-
-'work_type_id': 2
-
-'group': 'Прог 1.20 (Р3130)'
-
-'flow_type_id': 2
-
-'flow_id': 55068
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 13
-
-'format_id': 2
-
-'main_bld_id': 13
-}
-
-
-'intersections': []
-}
-
-{'day_number': 4
-
-'week_number': 11
-
-'date': '2024-10-31'
-
-'note': None
-
-'type': None
-
-'lessons': [{'pair_id': 17519463146
-
-'subject': 'Россия в истории современных международных отношений'
-
-'subject_id': 31315
-
-'note': None
-
-'type': 'Лекции'
-
-'time_start': '13:30'
-
-'time_end': '15:00'
-
-'teacher_id': 292065
-
-'teacher_name': 'Богомазов Николай Иванович'
-
-'room': 'Orange Classroom (1229)'
-
-'building': 'Кронверкский пр.
-
-д.49
-
-лит.А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Лекции'
-
-'work_type_id': 1
-
-'group': 'ИРС 1'
-
-'flow_type_id': 2
-
-'flow_id': 50123
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 13
-
-'format_id': 2
-
-'main_bld_id': 13
-}
-
-{'pair_id': 17519463281
-
-'subject': 'Россия в истории современных международных отношений'
-
-'subject_id': 31315
-
-'note': None
-
-'type': 'Практические занятия'
-
-'time_start': '17:00'
-
-'time_end': '18:30'
-
-'teacher_id': 416689
-
-'teacher_name': 'Павловский Алексей Федорович'
-
-'room': 'ауд.2201 (2201)'
-
-'building': 'Кронверкский пр.
-
-д.49
-
-лит.А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Практические занятия'
-
-'work_type_id': 3
-
-'group': 'ИРС 1.4'
-
-'flow_type_id': 2
-
-'flow_id': 50127
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 13
-
-'format_id': 2
-
-'main_bld_id': 13
-}
-
-
-'intersections': []
-}
-
-{'day_number': 5
-
-'week_number': 11
-
-'date': '2024-11-01'
-
-'note': None
-
-'type': None
-
-'lessons': [{'pair_id': 24810490536
-
-'subject': 'Основы дискретной математики (базовый уровень)'
-
-'subject_id': 61029
-
-'note': None
-
-'type': 'Лекции'
-
-'time_start': '17:00'
-
-'time_end': '18:30'
-
-'teacher_id': 100054
-
-'teacher_name': 'Поляков Владимир Иванович'
-
-'room': '1428'
-
-'building': 'Кронверкский пр.
-
-д.49
-
-лит.А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Лекции'
-
-'work_type_id': 1
-
-'group': 'ДИСКР МАТЕМ БАЗ 4'
-
-'flow_type_id': 2
-
-'flow_id': 54732
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 13
-
-'format_id': 2
-
-'main_bld_id': 13
-}
-
-{'pair_id': 24810490729
-
-'subject': 'Основы дискретной математики (базовый уровень)'
-
-'subject_id': 61029
-
-'note': None
-
-'type': 'Практические занятия'
-
-'time_start': '18:40'
-
-'time_end': '20:10'
-
-'teacher_id': 100054
-
-'teacher_name': 'Поляков Владимир Иванович'
-
-'room': '1428'
-
-'building': 'Кронверкский пр.
-
-д.49
-
-лит.А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Практические занятия'
-
-'work_type_id': 3
-
-'group': 'ДИСКР МАТЕМ БАЗ 4.1'
-
-'flow_type_id': 2
-
-'flow_id': 54724
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 13
-
-'format_id': 2
-
-'main_bld_id': 13
-}
-
-
-'intersections': []
-}
-
-{'day_number': 6
-
-'week_number': 11
-
-'date': '2024-11-02'
-
-'note': None
-
-'type': None
-
-'lessons': [{'pair_id': 23916551184
-
-'subject': 'Математический анализ'
-
-'subject_id': 25594
-
-'note': None
-
-'type': 'Лекции'
-
-'time_start': '10:00'
-
-'time_end': '11:30'
-
-'teacher_id': 345345
-
-'teacher_name': 'Блейхер Оксана Владимировна'
-
-'room': None
-
-'building': None
-
-'format': 'Дистанционный '
-
-'work_type': 'Лекции'
-
-'work_type_id': 1
-
-'group': 'Мат Ан 8'
-
-'flow_type_id': 2
-
-'flow_id': 53195
-
-'zoom_url': 'https://itmo.zoom.us/j/84380713548?pwd=YewJRuZbzVEY7YXAJIbJbG7awitGk9.1'
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': None
-
-'format_id': 3
-
-'main_bld_id': None
-}
-
-{'pair_id': 21763259637
-
-'subject': 'Основы профессиональной деятельности'
-
-'subject_id': 26075
-
-'note': None
-
-'type': 'Лабораторные занятия'
-
-'time_start': '13:30'
-
-'time_end': '15:00'
-
-'teacher_id': 336762
-
-'teacher_name': 'Обляшевский Севастьян Александрович'
-
-'room': '2112'
-
-'building': 'Кронверкский пр.
-
-д.49
-
-лит.А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Лабораторные занятия'
-
-'work_type_id': 2
-
-'group': 'Осн Проф деят 1.20 (Р3130)'
-
-'flow_type_id': 2
-
-'flow_id': 55091
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 13
-
-'format_id': 2
-
-'main_bld_id': 13
-}
-
-{'pair_id': 21763259747
-
-'subject': 'Основы профессиональной деятельности'
-
-'subject_id': 26075
-
-'note': None
-
-'type': 'Лабораторные занятия'
-
-'time_start': '15:20'
-
-'time_end': '16:50'
-
-'teacher_id': 336762
-
-'teacher_name': 'Обляшевский Севастьян Александрович'
-
-'room': '2112'
-
-'building': 'Кронверкский пр.
-
-д.49
-
-лит.А'
-
-'format': 'Очно - дистанционный '
-
-'work_type': 'Лабораторные занятия'
-
-'work_type_id': 2
-
-'group': 'Осн Проф деят 1.20 (Р3130)'
-
-'flow_type_id': 2
-
-'flow_id': 55091
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': 13
-
-'format_id': 2
-
-'main_bld_id': 13
-}
-
-{'pair_id': 21485447836
-
-'subject': 'Россия в истории современных международных отношений'
-
-'subject_id': 31315
-
-'note': 'Консультация'
-
-'type': 'Лекции'
-
-'time_start': '17:00'
-
-'time_end': '18:30'
-
-'teacher_id': 292065
-
-'teacher_name': 'Богомазов Николай Иванович'
-
-'room': None
-
-'building': None
-
-'format': 'Дистанционный '
-
-'work_type': 'Лекции'
-
-'work_type_id': 1
-
-'group': 'ИРС 1'
-
-'flow_type_id': 2
-
-'flow_id': 50123
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': None
-
-'format_id': 3
-
-'main_bld_id': None
-}
-
-{'pair_id': 21485447950
-
-'subject': 'Россия в истории современных международных отношений'
-
-'subject_id': 31315
-
-'note': 'Консультация'
-
-'type': 'Практические занятия'
-
-'time_start': '18:40'
-
-'time_end': '20:10'
-
-'teacher_id': 416689
-
-'teacher_name': 'Павловский Алексей Федорович'
-
-'room': None
-
-'building': None
-
-'format': 'Дистанционный '
-
-'work_type': 'Практические занятия'
-
-'work_type_id': 3
-
-'group': 'ИРС 1.4'
-
-'flow_type_id': 2
-
-'flow_id': 50127
-
-'zoom_url': None
-
-'zoom_password': None
-
-'zoom_info': None
-
-'bld_id': None
-
-'format_id': 3
-
-'main_bld_id': None
-}
-
-
-'intersections': []
-}
-
-{'day_number': 0
-
-'week_number': 11
-
-'date': '2024-11-03'
-
-'note': None
-
-'type': None
-
-'lessons': []
-
-'intersections': []
-}
-
-
-'message': None
+code: 0
+data:
+- day_number: 3
+  week_number: 11
+  date: 2024-10-30
+  note: null
+  type: null
+  lessons:
+  - pair_id: 21265539570
+    subject: Программирование
+    subject_id: 26245
+    note:  Актовый зал
+    type: Лекции
+    time_start: 08:20
+    time_end: 09:50
+    teacher_id: 105394
+    teacher_name: Гаврилов Антон Валерьевич
+    room: Актовый зал (1216/0 (усл))
+    building: ул.Ломоносова, д.9, лит. М
+    format: Очно - дистанционный
+    work_type: Лекции
+    work_type_id: 1
+    group: Прог 1 (Р3106, Р3107, Р3108, Р3109, Р3110, Р3111, Р3112, Р3113, Р3114, Р3115, Р3116, Р3117, Р3118, Р3119, Р3120, Р3121, Р3122, Р3123, Р3124, Р3130, Р3131,  Р3132
+    flow_type_id: 2
+    flow_id: 55048
+    zoom_url: https://itmo.zoom.us/j/83339863126?pwd=OLqqjqYvHWioBSeg36UfeYvqnaljUM.1
+    zoom_password: null
+    zoom_info: null
+    bld_id: 37
+    format_id: 2
+    main_bld_id: 273
+  - pair_id: 21768268639
+    subject: Программирование
+    subject_id: 26245
+    note: null
+    type: Лабораторные занятия
+    time_start: 11:40
+    time_end: 13:10
+    teacher_id: 309681
+    teacher_name: Кустарев Иван Павлович
+    room: 1333
+    building: Кронверкский пр., д.49, лит.А
+    format: Очно - дистанционный
+    work_type: Лабораторные занятия
+    work_type_id: 2
+    group: Прог 1.20 (Р3130)
+    flow_type_id: 2
+    flow_id: 55068
+    zoom_url: null
+    zoom_password: null
+    zoom_info: null
+    bld_id: 13
+    format_id: 2
+    main_bld_id: 13
+  - pair_id: 21768268772
+    subject: Программирование
+    subject_id: 26245
+    note: null
+    type: Лабораторные занятия
+    time_start: 13:30
+    time_end: 15:00
+    teacher_id: 309681
+    teacher_name: Кустарев Иван Павлович
+    room: 1333
+    building: Кронверкский пр., д.49, лит.А
+    format: Очно - дистанционный
+    work_type: Лабораторные занятия
+    work_type_id: 2
+    group: Прог 1.20 (Р3130)
+    flow_type_id: 2
+    flow_id: 55068
+    zoom_url: null
+    zoom_password: null
+    zoom_info: null
+    bld_id: 13
+    format_id: 2
+    main_bld_id: 13
+  intersections: []
+- day_number: 6
+  week_number: 11
+  date: 2024-11-02
+  note: null
+  type: null
+  lessons:
+  - pair_id: 23916551184
+    subject: Математический анализ
+    subject_id: 25594
+    note: null
+    type: Лекции
+    time_start: 10:00
+    time_end: 11:30
+    teacher_id: 345345
+    teacher_name: Блейхер Оксана Владимировна
+    room: null
+    building: null
+    format: Дистанционный
+    work_type: Лекции
+    work_type_id: 1
+    group: Мат Ан 8
+    flow_type_id: 2
+    flow_id: 53195
+    zoom_url: https://itmo.zoom.us/j/84380713548?pwd=YewJRuZbzVEY7YXAJIbJbG7awitGk9.1
+    zoom_password: null
+    zoom_info: null
+    bld_id: null
+    format_id: 3
+    main_bld_id: null
+  - pair_id: 21763259637
+    subject: Основы профессиональной деятельности
+    subject_id: 26075
+    note: null
+    type: Лабораторные занятия
+    time_start: 13:30
+    time_end: 15:00
+    teacher_id: 336762
+    teacher_name: Обляшевский Севастьян Александрович
+    room: 2112
+    building: Кронверкский пр., д.49, лит.А
+    format: Очно - дистанционный
+    work_type: Лабораторные занятия
+    work_type_id: 2
+    group: Осн Проф деят 1.20 (Р3130)
+    flow_type_id: 2
+    flow_id: 55091
+    zoom_url: null
+    zoom_password: null
+    zoom_info: null
+    bld_id: 13
+    format_id: 2
+    main_bld_id: 13
+  - pair_id: 21763259747
+    subject: Основы профессиональной деятельности
+    subject_id: 26075
+    note: null
+    type: Лабораторные занятия
+    time_start: 15:20
+    time_end: 16:50
+    teacher_id: 336762
+    teacher_name: Обляшевский Севастьян Александрович
+    room: 2112
+    building: Кронверкский пр., д.49, лит.А
+    format: Очно - дистанционный
+    work_type: Лабораторные занятия
+    work_type_id: 2
+    group: Осн Проф деят 1.20 (Р3130)
+    flow_type_id: 2
+    flow_id: 55091
+    zoom_url: null
+    zoom_password: null
+    zoom_info: null
+    bld_id: 13
+    format_id: 2
+    main_bld_id: 13
+  - pair_id: 21485447836
+    subject: Россия в истории современных международных отношений
+    subject_id: 31315
+    note: Консультация
+    type: Лекции
+    time_start: 17:00
+    time_end: 18:30
+    teacher_id: 292065
+    teacher_name: Богомазов Николай Иванович
+    room: null
+    building: null
+    format: Дистанционный
+    work_type: Лекции
+    work_type_id: 1
+    group: ИРС 1
+    flow_type_id: 2
+    flow_id: 50123
+    zoom_url: null
+    zoom_password: null
+    zoom_info: null
+    bld_id: null
+    format_id: 3
+    main_bld_id: null
+  - pair_id: 21485447950
+    subject: Россия в истории современных международных отношений
+    subject_id: 31315
+    note: Консультация
+    type: Практические занятия
+    time_start: 18:40
+    time_end: 20:10
+    teacher_id: 416689
+    teacher_name: Павловский Алексей Федорович
+    room: null
+    building: null
+    format: Дистанционный
+    work_type: Практические занятия
+    work_type_id: 3
+    group: ИРС 1.4
+    flow_type_id: 2
+    flow_id: 50127
+    zoom_url: null
+    zoom_password: null
+    zoom_info: null
+    bld_id: null
+    format_id: 3
+    main_bld_id: null
+  intersections: []
+message: null

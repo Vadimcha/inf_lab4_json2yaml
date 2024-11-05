@@ -4,6 +4,7 @@ with open('schedule.json', 'r') as file:
     data = str(json.load(file))
 
 def json_yaml(x):
+    x = x[1:-1]
     x = x.replace("[]", "ABOBA")
     x = x.replace("{}", "BIBA")
 
@@ -19,7 +20,7 @@ def json_yaml(x):
         i += 1
 
     x = x.replace(", ", ",")
-    kol = 0 # отвечает за кол-во [ и {
+    kol = 0     # отвечает за кол-во [ и {
     i = 0
     while i < len(x):
         g = x[i]
@@ -49,6 +50,6 @@ def json_yaml(x):
     x = "---\n" + x
     return x
 
-data = data[1:-1]
+
 new_data = json_yaml(data)
 print(new_data)

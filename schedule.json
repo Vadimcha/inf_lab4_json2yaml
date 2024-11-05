@@ -220,15 +220,6 @@
                 }
             ],
             "intersections": []
-        },
-        {
-            "day_number": 0,
-            "week_number": 11,
-            "date": "2024-11-03",
-            "note": null,
-            "type": null,
-            "lessons": [],
-            "intersections": []
         }
     ],
     "message": null
