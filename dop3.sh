@@ -1,1 +1,1 @@
-python3 dop1.py
+python3 must_have_task.py

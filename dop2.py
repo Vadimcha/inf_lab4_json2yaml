@@ -51,6 +51,6 @@ def json_yaml(x):
 
 data = data[1:-1]
 new_data = json_yaml(data)
-with open("result_dop2.yaml", "w", encoding="utf-8") as file:
-    file.write(new_data)
+# with open("result_dop2.yaml", "w", encoding="utf-8") as file:
+#     file.write(new_data)
 print(new_data)
