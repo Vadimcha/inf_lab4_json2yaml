@@ -1,0 +1,203 @@
+code: 0
+data:
+- date: '2024-10-30'
+  day_number: 3
+  intersections: []
+  lessons:
+  - bld_id: 37
+    building: ул.Ломоносова, д.9, лит. М
+    flow_id: 55048
+    flow_type_id: 2
+    format: 'Очно - дистанционный '
+    format_id: 2
+    group: Прог 1 (Р3106, Р3107, Р3108, Р3109, Р3110, Р3111, Р3112, Р3113, Р3114,
+      Р3115, Р3116, Р3117, Р3118, Р3119, Р3120, Р3121, Р3122, Р3123, Р3124, Р3130,
+      Р3131,  Р3132
+    main_bld_id: 273
+    note: ' Актовый зал'
+    pair_id: 21265539570
+    room: Актовый зал (1216/0 (усл))
+    subject: Программирование
+    subject_id: 26245
+    teacher_id: 105394
+    teacher_name: Гаврилов Антон Валерьевич
+    time_end: 09:50
+    time_start: 08:20
+    type: Лекции
+    work_type: Лекции
+    work_type_id: 1
+    zoom_info: null
+    zoom_password: null
+    zoom_url: https://itmo.zoom.us/j/83339863126?pwd=OLqqjqYvHWioBSeg36UfeYvqnaljUM.1
+  - bld_id: 13
+    building: Кронверкский пр., д.49, лит.А
+    flow_id: 55068
+    flow_type_id: 2
+    format: 'Очно - дистанционный '
+    format_id: 2
+    group: Прог 1.20 (Р3130)
+    main_bld_id: 13
+    note: null
+    pair_id: 21768268639
+    room: '1333'
+    subject: Программирование
+    subject_id: 26245
+    teacher_id: 309681
+    teacher_name: Кустарев Иван Павлович
+    time_end: '13:10'
+    time_start: '11:40'
+    type: Лабораторные занятия
+    work_type: Лабораторные занятия
+    work_type_id: 2
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: 13
+    building: Кронверкский пр., д.49, лит.А
+    flow_id: 55068
+    flow_type_id: 2
+    format: 'Очно - дистанционный '
+    format_id: 2
+    group: Прог 1.20 (Р3130)
+    main_bld_id: 13
+    note: null
+    pair_id: 21768268772
+    room: '1333'
+    subject: Программирование
+    subject_id: 26245
+    teacher_id: 309681
+    teacher_name: Кустарев Иван Павлович
+    time_end: '15:00'
+    time_start: '13:30'
+    type: Лабораторные занятия
+    work_type: Лабораторные занятия
+    work_type_id: 2
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  note: null
+  type: null
+  week_number: 11
+- date: '2024-11-02'
+  day_number: 6
+  intersections: []
+  lessons:
+  - bld_id: null
+    building: null
+    flow_id: 53195
+    flow_type_id: 2
+    format: 'Дистанционный '
+    format_id: 3
+    group: Мат Ан 8
+    main_bld_id: null
+    note: null
+    pair_id: 23916551184
+    room: null
+    subject: Математический анализ
+    subject_id: 25594
+    teacher_id: 345345
+    teacher_name: Блейхер Оксана Владимировна
+    time_end: '11:30'
+    time_start: '10:00'
+    type: Лекции
+    work_type: Лекции
+    work_type_id: 1
+    zoom_info: null
+    zoom_password: null
+    zoom_url: https://itmo.zoom.us/j/84380713548?pwd=YewJRuZbzVEY7YXAJIbJbG7awitGk9.1
+  - bld_id: 13
+    building: Кронверкский пр., д.49, лит.А
+    flow_id: 55091
+    flow_type_id: 2
+    format: 'Очно - дистанционный '
+    format_id: 2
+    group: Осн Проф деят 1.20 (Р3130)
+    main_bld_id: 13
+    note: null
+    pair_id: 21763259637
+    room: '2112'
+    subject: Основы профессиональной деятельности
+    subject_id: 26075
+    teacher_id: 336762
+    teacher_name: Обляшевский Севастьян Александрович
+    time_end: '15:00'
+    time_start: '13:30'
+    type: Лабораторные занятия
+    work_type: Лабораторные занятия
+    work_type_id: 2
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: 13
+    building: Кронверкский пр., д.49, лит.А
+    flow_id: 55091
+    flow_type_id: 2
+    format: 'Очно - дистанционный '
+    format_id: 2
+    group: Осн Проф деят 1.20 (Р3130)
+    main_bld_id: 13
+    note: null
+    pair_id: 21763259747
+    room: '2112'
+    subject: Основы профессиональной деятельности
+    subject_id: 26075
+    teacher_id: 336762
+    teacher_name: Обляшевский Севастьян Александрович
+    time_end: '16:50'
+    time_start: '15:20'
+    type: Лабораторные занятия
+    work_type: Лабораторные занятия
+    work_type_id: 2
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: null
+    building: null
+    flow_id: 50123
+    flow_type_id: 2
+    format: 'Дистанционный '
+    format_id: 3
+    group: ИРС 1
+    main_bld_id: null
+    note: Консультация
+    pair_id: 21485447836
+    room: null
+    subject: Россия в истории современных международных отношений
+    subject_id: 31315
+    teacher_id: 292065
+    teacher_name: Богомазов Николай Иванович
+    time_end: '18:30'
+    time_start: '17:00'
+    type: Лекции
+    work_type: Лекции
+    work_type_id: 1
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  - bld_id: null
+    building: null
+    flow_id: 50127
+    flow_type_id: 2
+    format: 'Дистанционный '
+    format_id: 3
+    group: ИРС 1.4
+    main_bld_id: null
+    note: Консультация
+    pair_id: 21485447950
+    room: null
+    subject: Россия в истории современных международных отношений
+    subject_id: 31315
+    teacher_id: 416689
+    teacher_name: Павловский Алексей Федорович
+    time_end: '20:10'
+    time_start: '18:40'
+    type: Практические занятия
+    work_type: Практические занятия
+    work_type_id: 3
+    zoom_info: null
+    zoom_password: null
+    zoom_url: null
+  note: null
+  type: null
+  week_number: 11
+message: null

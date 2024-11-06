@@ -1,5 +1,7 @@
 import json
 
+import yaml
+
 with open('schedule.json', 'r') as file:
     data = str(json.load(file))
 
@@ -52,4 +54,6 @@ def json_yaml(x):
 
 
 new_data = json_yaml(data)
+with open("result_must_have_task.yaml", "w", encoding="utf-8") as file:
+    file.write(new_data)
 print(new_data)
